@@ -36,7 +36,7 @@ goto next
 goto back
 ```
 
-[Link to bad website](https://google.com) and [Kokkoro](https://static.zerochan.net/Kokkoro.%28Princess.Connect%29.full.3003435.jpg)
+[Link to bad website](https://google.com) and ![Kokkoro](https://static.zerochan.net/Kokkoro.%28Princess.Connect%29.full.3003435.jpg "good girl")
 
 - Test 1
 - Test 2
