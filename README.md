@@ -24,7 +24,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and ~~Strikethrough~~ and **Bold and __Itatlic__** and ***All bold and italic*** and `Code` text
+**Bold** and _Italic_ and ~~Strikethrough~~ and **Bold and _Itatlic_** and ***All bold and italic*** and `Code` text
 
 Someone said: 
 > Bad Website
@@ -36,15 +36,15 @@ goto next
 goto back
 ```
 
-[(google.com)] and [(https://static.zerochan.net/Kokkoro.%28Princess.Connect%29.full.3003435.jpg)]
+[Link to bad website](https://google.com) and [Kokkoro](https://static.zerochan.net/Kokkoro.%28Princess.Connect%29.full.3003435.jpg)
 
--Test 1
--Test 2
--Test 3
+- Test 1
+- Test 2
+- Test 3
 
--Test 4
-    -Test 5
-        -Test 6
+- Test 4
+    - Test 5
+        - Test 6
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
