@@ -37,6 +37,7 @@ goto back
 ```
 
 [Link to bad website](https://google.com) and ![Kokkoro](https://static.zerochan.net/Kokkoro.%28Princess.Connect%29.full.3003435.jpg "good girl")
+[Link to some section here](https://github.com/DanielChenOfficial2/DanielChenOfficial2.github.io/tree/new#header-3)
 
 - Test 1
 - Test 2
