@@ -1,8 +1,7 @@
 # Daily Scrum
 
 ### Name
-- Daniel Chen
-- Finish Lab 3 Today
-- Can't Find Motivation to Finish Work
-- Not Very Close to Finishing
-
+- What did you do yesterday?
+- What will you do today?
+- Where are you blocked?
+- Comfort Level: How close are we to hitting our sprint goals?
