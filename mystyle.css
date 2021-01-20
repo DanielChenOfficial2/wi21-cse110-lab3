@@ -33,7 +33,7 @@ p {
 }
 
 /** attribute selector **/
-p[target="_why"] {
+a[href^="https"] {
   background-color: blue;
 }
 
@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:active {
-  color: #FFFF00;
+  color: hotpink;
 }
 
 /** descendant combinator **/
