@@ -1,0 +1,47 @@
+.center {
+  text-align: center;
+  color: blue;
+}
+
+.large {
+  color: green;
+}
+
+#test1 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  text-align: left;
+  color: green;
+}
+
+* {
+  text-align: right;
+   color: red;
+}
+
+p[target="_why"] {
+  background-color: blue;
+}
+
+a:hover {
+  color: #FFF0FF;
+}
+
+body p {
+  background-color: green;
+}
+
+body > p {
+  background-color: purple;
+}
+
+body + p {
+  background-color: green;
+}
+
+body ~ p {
+  background-color: green;
+}
